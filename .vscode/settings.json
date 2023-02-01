@@ -1,9 +1,0 @@
-{
-    "files.associations": {
-        "vector": "cpp",
-        "iostream": "cpp"
-    },
-    "git.ignoreLimitWarning": true,
-    "C_Cpp.errorSquiggles": "Disabled",
-    "cmake.sourceDirectory": "${workspaceFolder}/vcpkg/docs/examples/vcpkg_android_example_cmake"
-}
