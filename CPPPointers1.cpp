@@ -26,5 +26,6 @@ int main()
     {
         cout << *(luckyNumbers + i) << endl;
     }
+    
     return 0;
 }
