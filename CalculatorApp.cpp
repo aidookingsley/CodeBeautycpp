@@ -35,4 +35,5 @@ int main()
         default:
         cout << "Not valid operation!" << endl;
         }
+    return 0;
 }
