@@ -44,5 +44,6 @@ int main()
     getMinAndMax(numbers, 5, &min, &max); //pass a parameter by using reference
     cout << "min is " << min << endl;
     cout << "max is " << max << endl;
+    
     return 0;
 }
