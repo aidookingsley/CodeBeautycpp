@@ -23,6 +23,5 @@ int main(){
     cout << strf << endl;
     cout << "The int value in string: ";
     cout << stri << endl;
-
     return 0;
 }
