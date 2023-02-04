@@ -15,6 +15,8 @@ public:
     int operator()(const int value) const { return value + data; }
 };
 
+// overload the << operator for the std::vector<int> type:
+
 std::ostream &operator<<(std::ostream &os, const std::vector<int> &v)
 {
     os << "[";
